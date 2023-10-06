@@ -1,6 +1,6 @@
 # Podcast Summarizer Large Language Model (LLM) Application 
 
-Repo for the Notebooks and the frontend for an AI/LLM App built on Open AI, Built on Open AI, Modal and deployed on Streamlit
+Repo for the Notebooks and the frontend for an AI/LLM App built on Open AI, Built on Open AI, Modal, and deployed on Streamlit
 
 # What to Expect
 - Learn how to create and deploy LLM (Large Language Model) applications that enhance user experiences.
@@ -15,4 +15,6 @@ Repo for the Notebooks and the frontend for an AI/LLM App built on Open AI, Buil
 
 ## Run Notebooks
 - Run 1: [Run 1 Notebook](https://github.com/kevshakes/podcast-summarizer-frontend/blob/main/%5BRun_1%5D_Podcast_Summarizer_Kevin_Tuei.ipynb)
-
+  
+## Hugging Face Automatic Speech Recognition Models
+- [Hugging Face Models]([https://huggingface.co/models](https://huggingface.co/models?pipeline_tag=automatic-speech-recognition&sort=trending)https://huggingface.co/models?pipeline_tag=automatic-speech-recognition&sort=trending) 
