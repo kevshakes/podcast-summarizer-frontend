@@ -10,6 +10,9 @@ Repo for the Notebooks and the frontend for an AI/LLM App built on Open AI, Buil
   
 # To get started:
 
-- Make a copy of the Starter Notebook
+- Make a copy of the [Starter Notebook](Uplimit_Week1_StudentVersion.ipynb)
 - Reference the Run x Notebooks for the run variants of the Starter Notebook
+
+## Run Notebooks
+- Run 1: [Run 1 Notebook](https://github.com/kevshakes/podcast-summarizer-frontend/blob/main/%5BRun_1%5D_Podcast_Summarizer_Kevin_Tuei.ipynb)
 
